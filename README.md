@@ -34,9 +34,7 @@ bash <(curl -l -s https://raw.githubusercontent.com/byJoey/dd/refs/heads/main/dd
 
 ## 🖥️ 示例截图
 
-```
-<img width="454" alt="截屏2025-05-03 17 31 45" src="https://github.com/user-attachments/assets/c03643f7-cf28-41db-9921-b42068dd4097" />
-
+<img width="454" alt="截屏2025-05-03 17 31 45" src="https://github.com/user-attachments/assets/022b8fc0-901b-4df1-96d5-272b9e21d12b" />
 
 ---
 
