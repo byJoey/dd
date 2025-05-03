@@ -30,7 +30,7 @@ curl -fsSL https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.
 }
 
 # 提取系统列表（仅 Linux 发行版）
-mapfile -t lines < <(grep -E '^\s{23}[a-z]+' "$TMP_FILE" | grep -vE 'windows|dd|netboot|--img|--iso')
+mapfile -t lines < <(grep -E '^\s{23}[a-z]+' "$TMP_FILE" | grep -vE 'windows|dd|netboot|--img|--iso|--minimal')
 
 declare -A systems
 i=1
